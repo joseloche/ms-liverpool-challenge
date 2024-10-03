@@ -13,5 +13,5 @@
 ![Consumo de Todos los folios](images/folioAll.png)
 
 <div style="text-align: right;">
-<small> &copy; 2024 José Luis Hernández VelázQuez.</small>
+<small> &copy; 2024 José Luis Hernández Velázquez.</small>
 </div>
