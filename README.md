@@ -3,12 +3,13 @@
 
 consumer end-point **[ip]:[port]/api/liverpool/folio?folio=TEST_FOLIO**
 
+example the consume from end point in post pan
 
-![Ejemplo de imagen](images/folioAll.png|)
+![Consumo de folio por uno](images/folioBy.png)
 
+if folio not exist show all folio
 
-![Ejemplo de imagen](images/folioBy.png)
-
+![Consumo de Todos los folios](images/folioAll.png)
 
 <div style="text-align: right;">
 <small> &copy; 2024 Jose L. Todos los derechos reservados.</small>
