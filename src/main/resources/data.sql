@@ -1,0 +1,2 @@
+INSERT INTO folios(folio,digest) VALUES ('TEST_FOLIO','TEST_DIGEST');
+INSERT INTO folios(folio,digest) VALUES ('TEST_FOLIO1','TEST_DIGEST2');
