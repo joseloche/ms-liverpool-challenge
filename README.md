@@ -1,14 +1,14 @@
 # LIVERPOOL CHALLENGE 
 
-for consume the micro service:
+### for consume the micro service:
 
-{ip}:{port}/api/liverpool/folio?folio=
+#### {ip}:{port}/api/liverpool/folio?folio=
 
-example the consume from end point in post pan
+- example the consume from end point in post pan
 
 ![Consumo de folio por uno](images/folioBy.png)
 
-if folio not exist show all folio
+- if folio not exist show all folio
 
 ![Consumo de Todos los folios](images/folioAll.png)
 
