@@ -1,7 +1,8 @@
 # LIVERPOOL CHALLENGE 
 
+for consume the micro service:
 
-consumer end-point **[ip]:[port]/api/liverpool/folio?folio=TEST_FOLIO**
+{ip}:{port}/api/liverpool/folio?folio=
 
 example the consume from end point in post pan
 
